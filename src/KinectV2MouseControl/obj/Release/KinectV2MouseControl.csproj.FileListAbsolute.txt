@@ -1,0 +1,15 @@
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\bin\Release\KinectV2MouseControl.exe.config
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\bin\Release\KinectV2MouseControl.exe
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\bin\Release\KinectV2MouseControl.pdb
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\bin\Release\Microsoft.Kinect.dll
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\bin\Release\Microsoft.Kinect.xml
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\KinectV2MouseControl.csprojResolveAssemblyReference.cache
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\MainWindow.baml
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\MainWindow.g.cs
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\App.g.cs
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\KinectV2MouseControl_MarkupCompile.cache
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\KinectV2MouseControl.g.resources
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\KinectV2MouseControl.Properties.Resources.resources
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\KinectV2MouseControl.csproj.GenerateResource.Cache
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\KinectV2MouseControl.exe
+C:\Users\harri\Documents\Visual Studio 2013\Projects\KinectV2MouseControl-master\src\KinectV2MouseControl\obj\Release\KinectV2MouseControl.pdb
